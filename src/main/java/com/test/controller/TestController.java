@@ -10,6 +10,6 @@ public class TestController {
 
 	@GetMapping("/test")
 	public String test() {
-		return "welcome to maven project !! =):";
+		return "welcome to maven project";
 	}
 }
